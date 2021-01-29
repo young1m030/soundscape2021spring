@@ -1,8 +1,11 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="soundscape project_data" version="1.3.0" audacityversion="2.4.2" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="86.1328125000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
-	<tags/>
-	<wavetrack name="Audio Track" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="soundscape project_data" version="1.3.0" audacityversion="2.4.2" sel0="7.0997632946" sel1="7.0997632946" vpos="0" h="0.0000000000" zoom="11.6905305933" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ARTIST" value="President Joseph R. Biden Jr."/>
+		<tag name="YEAR" value="2021"/>
+	</tags>
+	<wavetrack name="Audio Track" isSelected="1" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="264603">
 				<waveblock start="0">
@@ -10,6 +13,92 @@
 				</waveblock>
 				<waveblock start="262144">
 					<simpleblockfile filename="eff1fe08.au" len="2459" min="-0.00243" max="0.003589" rms="0.000918"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="biden-inaugural" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="0.199526" pan="0.0" colorindex="0">
+		<waveclip offset="8.21177441" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2923520">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f960.au" len="261039" min="-0.472018" max="0.601669" rms="0.0691"/>
+				</waveblock>
+				<waveblock start="261039">
+					<simpleblockfile filename="eff1f2a9.au" len="262144" min="-0.338948" max="0.445616" rms="0.066476"/>
+				</waveblock>
+				<waveblock start="523183">
+					<simpleblockfile filename="eff1f3c9.au" len="262144" min="-0.434602" max="0.485818" rms="0.086897"/>
+				</waveblock>
+				<waveblock start="785327">
+					<simpleblockfile filename="eff1f6f7.au" len="262144" min="-0.398672" max="0.41308" rms="0.093431"/>
+				</waveblock>
+				<waveblock start="1047471">
+					<simpleblockfile filename="eff1fc25.au" len="262144" min="-0.492275" max="0.469224" rms="0.075135"/>
+				</waveblock>
+				<waveblock start="1309615">
+					<simpleblockfile filename="eff1fdb2.au" len="262144" min="-0.569668" max="0.771594" rms="0.112544"/>
+				</waveblock>
+				<waveblock start="1571759">
+					<simpleblockfile filename="eff1fa7b.au" len="262144" min="-0.615765" max="0.654361" rms="0.136368"/>
+				</waveblock>
+				<waveblock start="1833903">
+					<simpleblockfile filename="eff1fdb5.au" len="262144" min="-0.727392" max="0.904505" rms="0.103956"/>
+				</waveblock>
+				<waveblock start="2096047">
+					<simpleblockfile filename="eff1f994.au" len="262144" min="-0.657095" max="0.751114" rms="0.125723"/>
+				</waveblock>
+				<waveblock start="2358191">
+					<simpleblockfile filename="eff1fe2c.au" len="262144" min="-0.617001" max="0.75973" rms="0.119018"/>
+				</waveblock>
+				<waveblock start="2620335">
+					<simpleblockfile filename="eff1fcb8.au" len="151592" min="-0.800064" max="0.738144" rms="0.127699"/>
+				</waveblock>
+				<waveblock start="2771927">
+					<simpleblockfile filename="eff1f70d.au" len="151593" min="-0.208006" max="0.198504" rms="0.021283"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="biden-inaugural" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="0.199526" pan="0.0" colorindex="0">
+		<waveclip offset="8.21177441" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2923520">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f3f9.au" len="261039" min="-0.470547" max="0.601823" rms="0.06918"/>
+				</waveblock>
+				<waveblock start="261039">
+					<simpleblockfile filename="eff1f1e9.au" len="262144" min="-0.337141" max="0.445159" rms="0.066523"/>
+				</waveblock>
+				<waveblock start="523183">
+					<simpleblockfile filename="eff1f68f.au" len="262144" min="-0.433704" max="0.48234" rms="0.087019"/>
+				</waveblock>
+				<waveblock start="785327">
+					<simpleblockfile filename="eff1fea3.au" len="262144" min="-0.391805" max="0.412922" rms="0.093449"/>
+				</waveblock>
+				<waveblock start="1047471">
+					<simpleblockfile filename="eff1f2b7.au" len="262144" min="-0.491143" max="0.468389" rms="0.075138"/>
+				</waveblock>
+				<waveblock start="1309615">
+					<simpleblockfile filename="eff1fcdd.au" len="262144" min="-0.577449" max="0.771819" rms="0.112741"/>
+				</waveblock>
+				<waveblock start="1571759">
+					<simpleblockfile filename="eff1f894.au" len="262144" min="-0.616092" max="0.654441" rms="0.136293"/>
+				</waveblock>
+				<waveblock start="1833903">
+					<simpleblockfile filename="eff1f5c4.au" len="262144" min="-0.722842" max="0.864624" rms="0.103074"/>
+				</waveblock>
+				<waveblock start="2096047">
+					<simpleblockfile filename="eff1f732.au" len="262144" min="-0.658977" max="0.752738" rms="0.125775"/>
+				</waveblock>
+				<waveblock start="2358191">
+					<simpleblockfile filename="eff1f12d.au" len="262144" min="-0.621414" max="0.759223" rms="0.119065"/>
+				</waveblock>
+				<waveblock start="2620335">
+					<simpleblockfile filename="eff1f4af.au" len="151592" min="-0.804634" max="0.733902" rms="0.128138"/>
+				</waveblock>
+				<waveblock start="2771927">
+					<simpleblockfile filename="eff1fef3.au" len="151593" min="-0.243532" max="0.179322" rms="0.023092"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
