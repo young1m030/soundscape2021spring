@@ -1,1 +1,1 @@
-this will be my repository
+My next step for created assets will consist of recording interviews/conversations with my source (my roommate Jen). I’m really interested in utilizing my own voice as well as a means to start conversation or make points that speak to things on my mind. My inspiration for this portion has come from the Q&A part of the “Modern Love” podcast — Miya Lee has such a soft voice but uses it to ask such devastating, evocative questions. 
