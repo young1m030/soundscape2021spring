@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="soundscape project_data" version="1.3.0" audacityversion="2.4.2" sel0="-0.0000000000" sel1="50.6336054422" vpos="32" h="0.0000000000" zoom="5.5496747777" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="soundscape project_data" version="1.3.0" audacityversion="2.4.2" sel0="109.1955878983" sel1="109.1955878983" vpos="0" h="0.0000000000" zoom="5.5496747777" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
 		<tag name="TITLE" value="22.9.16"/>
 		<tag name="major_brand" value="M4A "/>
@@ -53,7 +53,7 @@
 		</waveclip>
 	</wavetrack>
 	<wavetrack name="385870__inspectorj__printer-distant-a" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="0.158489" pan="0.0" colorindex="0">
-		<waveclip offset="0.00000000" colorindex="0">
+		<waveclip offset="23.60498682" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="2232942">
 				<waveblock start="0">
 					<simpleblockfile filename="eff1feb3.au" len="262144" min="-0.095062" max="0.090057" rms="0.014921"/>
@@ -87,7 +87,7 @@
 		</waveclip>
 	</wavetrack>
 	<wavetrack name="385870__inspectorj__printer-distant-a" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="0.158489" pan="0.0" colorindex="0">
-		<waveclip offset="0.00000000" colorindex="0">
+		<waveclip offset="23.60498682" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="2232942">
 				<waveblock start="0">
 					<simpleblockfile filename="eff1f51e.au" len="262144" min="-0.078522" max="0.084656" rms="0.013579"/>
